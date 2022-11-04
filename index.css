@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.Title{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 280px;
+  margin-left: 160px;
+}
+.Title h1{
+  font-size: 142px;
+}
+
+.Title p{
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 35px;
+}
+
+.login{
+  display: flex;
+}
+
+.logo{
+  width: 200px;
+  position: relative;
+  bottom: 280px;
+  left: 64%;
+}
+
+.loginButton{
+  font-size: 20px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid white;
+  padding: 12px 120px;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 40px;
+  position: relative;
+  bottom: 170px;
+  left: 640px;
+
+}
