@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.genres_title{
+    text-align: left;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 110px;
+    margin-left: 115px;
+    border-bottom: solid #b7b1d2 10px;
+    width: fit-content
+}
+
+.btn-previous{
+    color: white;
+    margin-left: 115px;
+    position: absolute;
+    top: 32px;
+    
+}

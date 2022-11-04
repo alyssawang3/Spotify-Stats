@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.artist_title{
+    text-align: left;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 110px;
+    margin-left: 115px;
+    border-bottom: solid #37a987 10px;
+    width: fit-content
+}
+
+.btn-previous{
+    color: white;
+    font-size: 30px;
+    margin-left: 115px;
+    
+}
+
+.content_images{
+    margin: 40px 20px;
+    /* width: 80%;*/
+     display: flex;
+     flex-flow: row wrap;
+     justify-content: center;
+     align-self: center;
+}
+
+.artistImg{
+    width: 260px;
+    height: 300px;
+}
+
+.artistName{
+    color: white;
+    font-weight: bold;
+    font-family: 'Arimo', sans-serif;
+    font-size: 20px;
+    padding-top: 12px;
+    
+}
+
+.box {
+    height: 350px;
+    width: 260px;
+    /* background-color: #37a987; */
+    margin: 20px 20px;
+  }
+
+.linkButton{
+    color: white;
+    margin-left: 8px;
+}
