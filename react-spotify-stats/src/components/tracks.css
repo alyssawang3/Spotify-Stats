@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.tracks_title{
+    text-align: left;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 110px;
+    margin-left: 115px;
+    border-bottom: solid #4b3d8f 10px;
+    width: fit-content
+}
+
+.btn-previous{
+    color: white;
+    font-size: 30px;
+    margin-left: 115px;
+    
+}
+
+.tracks_container{
+    margin-top: 70px;
+}
+
+.trackImg{
+    width: 92px;
+    height: 92px;
+    padding: 10px;
+    padding-left: 70px;
+    background-color: transparent;  
+    
+}
+
+.container{
+    padding-left: 10px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
+.rectangle {
+    height: 110px;
+    width: 1420px;
+    background-color: #4b3d8f;
+    margin-bottom: 10px;
+    margin-left: 115px;
+    display: flex;
+    align-items: center;
+}
+
+.listOrder{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: absolute;
+    background-color: transparent;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.trackName{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 26px;
+    font-weight: bold;
+    font-size: 24px;
+    word-break: break-word;
+    width: 800px;
+    background-color: transparent;
+    
+}
+
+a{
+    background-color: transparent;
+}
+svg{
+    background-color: transparent;
+}
+
+path{
+    background-color: transparent;
+}
+
+button{
+    border: none;
+}
+.artist{
+    color:white;
+    background-color: transparent;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    max-width: 400px;
+}
+
+.urlButton{
+    color: white;
+    margin-left: 8px;
+    background-color: #4b3d8f;
+    padding-left: 2px;
+}
+

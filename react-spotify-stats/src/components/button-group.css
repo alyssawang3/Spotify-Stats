@@ -1,0 +1,23 @@
+.Buttons{
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: 25%;
+}
+
+.previousButton{
+    font-size: 22px;
+    margin-left: 100px;
+    margin-top: 20px;
+    color: white;
+    border: 1.5px solid white;
+    padding: 8px 12px;
+    font-family: 'Arimo', sans-serif;
+    cursor: pointer;
+}
+
+.active{
+    font-weight: bold;
+    border: 4px solid white;
+    font-size: 22px;
+}
+

@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.genres_title{
+    text-align: left;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 110px;
+    margin-left: 115px;
+    border-bottom: solid #b7b1d2 10px;
+    width: fit-content;
+    margin-bottom: 50px;
+    
+}
+
+.btn-previous{
+    color: white;
+    margin-left: 115px;
+    position: absolute;
+    top: 32px;
+}
+
+.genres_content{
+    width: 1450px;
+    overflow: auto;
+}
+
+.genre_item{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    margin-left: 110px;
+}
+
+.genre_name{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    word-break: break-word;
+}
+
+.genre_rectangles{
+    height: 100px;
+    background-color: #b7b1d2;  
+    margin-left: 40px;
+    align-self: flex-start;
+
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    font-weight: bolder;
+    line-height: 100px;
+    padding-left: 20px;
+    
+}
+
+
+.rect1{
+    width: 1100px;
+}
+
+.rect2{
+    width: 1000px;
+}
+
+.rect3{
+    width: 900px;
+}
+
+.rect4{
+    width: 800px;
+}
+
+.rect5{
+    width: 700px;
+}
+
+.rect6{
+    width: 600px;
+}
+.rect7{
+    width: 500px;
+}
+.rect8{
+    width: 400px;
+}
+.rect9{
+    width: 300px;
+}
+.rect10{
+    width: 200px;
+}
